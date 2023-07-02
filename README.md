@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sidessh</h1>
 <h3 align="center">I believe in "Innovative Solutions through Passionate Development"</h3>
 
-<p align="center">
-  <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_btyie10d.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop controls autoplay></lottie-player>
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidesshmore&label=Profile%20views&color=7accff&style=flat" alt="sidesshmore" /> </p>
 
 - 😎 I’m currently working on [To-Do-App-Flutter](https://github.com/sidesshmore/To-Do-App-Flutter)
