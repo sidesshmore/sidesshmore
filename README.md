@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sidessh</h1>
-<h3 align="center">I believe in "Innovative Solutions through Passionate Development"</h3>
+<h3 align="center">I believe in "Innovating Solutions through Passionate Development"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidesshmore&label=Profile%20views&color=7accff&style=flat" alt="sidesshmore" /> </p>
 
