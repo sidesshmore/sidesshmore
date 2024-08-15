@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking to collaborate on [Data Structure Visualiser](https://github.com/sidesshmore/Data-Structure-Visualiser)
 
-- 👨‍💻 All of my projects are available at [https://sidessh.netlify.app/](https://sidessh.netlify.app/)
-
 - 📫 How to reach me **mosiddhesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
