@@ -12,9 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a developer focused on building impactful solutions using cutting-edge technologies. With expertise in Flutter, Supabase, React, and AI, I create applications that solve real-world problems and deliver exceptional user experiences.
-
-My experience spans mobile development, API optimization, and database management, with a strong background in AI and data science. I'm passionate about creating software that combines technical excellence with intuitive design.
+Hi there! 👋 I'm a developer who enjoys building meaningful solutions. Whether it's designing intuitive apps, automating workflows, or experimenting with new technologies, I love taking on challenges that push me to learn and grow. For me, technology is a tool to solve real problems, and I'm always excited to explore what's next.
 
 ## 🏆 Featured Projects
 
