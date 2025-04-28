@@ -16,29 +16,6 @@ I'm a developer focused on building impactful solutions using cutting-edge techn
 
 My experience spans mobile development, API optimization, and database management, with a strong background in AI and data science. I'm passionate about creating software that combines technical excellence with intuitive design.
 
-## 💻 Technical Skills
-
-<div align="center">
-
-### Languages & Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=027DFD)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=092E20)
-
-### Databases & Tools
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&color=3ECF8E)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&color=FFCA28)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
-
-</div>
-
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -131,28 +108,6 @@ Streamlined data analysis tool that automatically generates comprehensive EDA wi
 [<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=streamlit&logoColor=white&color=FF4B4B" height="30">](https://eda-automatic.streamlit.app/)
 
 ---
-
-## 💼 Experience
-
-### **Flutter Developer Intern** | Saukhyam Pads
-#### *October 2024 - Present*
-
-- Developed mobile app using Flutter and Supabase, streamlining distributor/shop onboarding
-- Designed and implemented 30+ screens ensuring intuitive experience
-- Integrated email OTP authentication enhancing security for user transactions
-
-### **Python Development Intern** | Digibranders Private Limited
-#### *June 2023 - August 2023*
-
-- Developed RESTful APIs, improving system performance by 23%
-- Optimized PostgreSQL database efficiency, achieving 60ms response time for ERP Dashboard API
-
-## 🎓 Education
-
-### **Bachelor of Engineering in Artificial Intelligence and Data Science**
-#### SIES Graduate School of Technology | *2021 - Present*
-##### CGPA: 9.35/10.0
-
 ## 📫 Connect With Me
 
 <div align="center">
